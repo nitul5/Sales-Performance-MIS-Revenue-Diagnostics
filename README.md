@@ -87,7 +87,7 @@ Pivot tables were used to efficiently analyze these metrics.
 ---
 
 ## 📎 Files Included
-- `analysis/Sales_Performance_MIS_Revenue_Diagnostics.xlsx`
+- `Analysis/sales_data_500_rows_Final.xlsx`
 - Supporting screenshots for documentation
 
 ---
